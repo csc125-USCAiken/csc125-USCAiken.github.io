@@ -21,10 +21,19 @@ layout: default
 
 <!--end of modification -->
 
-### Text Book 
-**[CS For All by Christine Alvarado, Zachary Dodds, Geoff Kuenning, Ran Libeskind-Hadas](https://www.cs.hmc.edu/csforallbook/)**
+### Education Resource 
 
-You may find more students resource [here](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/) and view the course materiels on [GitHub](https://github.com/yilianz/csci125).
+**[How to Think Like a Computer Scientist? Learning with Python 3 by Peter Wentworth, Jeffrey Elkner, Allen B.Downey, and Chris Meyers.](https://python.camden.rutgers.edu/python_resources/python3_book/index.html)**
+
+**[Python.org](https://www.python.org/about/gettingstarted/)**
+
+
+**[The office Python Tutorial](https://docs.python.org/3/tutorial/index.html)** 
+
+**[Python Language Reference](https://docs.python.org/3/)**
+
+
+You may view the course materiels on [GitHub](https://github.com/csc125-USCAiken/csc125-USCAiken.github.io).
 
 
 
