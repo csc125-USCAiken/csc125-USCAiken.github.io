@@ -6,18 +6,11 @@ layout: default
 
 > *“Simple things should be simple, complex things should be possible.” ― Alan Kay* 
 
+> *“Everybody should learn to program a computer, because it teaches you how to think. ”- Steve Jobs*
+
 ### About Me
 
 <!-- Please write a short pargraph about you -->
-
-
-
-
-
-
-
-
-
 
 <!--end of modification -->
 
